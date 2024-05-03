@@ -18,13 +18,6 @@ The objective of this project is to extend the work done in the referenced paper
 - **Bidirectional LSTM (bi-LSTM) networks layered with CNNs**: This architecture aims to enhance the model's understanding of context by processing data in both forward and reverse directions.
 
 ## Reference
-- Paper: "Bagged Support Vector Machines for Emotion Recognition from Speech", referred to as CVB.
+- Paper: "Bagged Support Vector Machines for Emotion Recognition from Speech".
 
-## License
-This project is open-sourced under the [MIT license](LICENSE).
 
-## How to Contribute
-Contributions to the project are welcome! Please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to submit issues, fork the repo, and create pull requests.
-
-## Contact
-For any queries regarding the project, feel free to reach out via GitHub or email at xyz@example.com.
